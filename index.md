@@ -35,10 +35,17 @@ Esta pandemia nos está cambiando para siempre, pero esperamos que sea un **camb
 
 Ejemplo de còdigo:
 `public class ClasePrincipal {`
+
 `public static void main(String[] args) {`
+
 `sentencia_1;`
+
 `sentencia_2;`
+
 `// ...`
+
 `sentencia_N;`
+
 `}`
+
 `}`
