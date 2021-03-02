@@ -28,4 +28,4 @@ También se sumaron otras **más específicas** dirigidas sobre todo a las **act
 6. Uso de barreras físicas (mamparas o pantallas protectoras)
 
 Esta pandemia nos está cambiando para siempre, pero esperamos que sea un **cambio hacia mejor** y sobre todo que nos haya servido para darnos cuenta que la **música y la cultura** en general, son un **elemento indispensable** en nuestras vidas y que debemos cuidarlas y protegerlas, a ella y a todas aquellas personas que trabajan y viven por y para ella.
-> **"La música es para el alma lo que la gimnasia para el cuerpo"** - Platón (427-347 a. C.). Filósofo griego.
+> **"La música es para el alma lo que la gimnasia para el cuerpo"** - Platón (427-347 a. C.) Filósofo griego.
