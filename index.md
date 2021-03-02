@@ -4,7 +4,7 @@ El sector musical es uno de los que más ha sufrido esta pandemia y todas sus co
 ## La música durante el confinamiento
 ![Musica desde balcones](MusicaDesdeBalcones.jpeg)
 
-`Iniciativa de muchos músicos que ante la situacíon del sector,
+`Iniciativa de muchos músicos que ante la situación del sector,
 decidieron compartir música desde sus balcones`
 
 En marzo nuestro país se paralizó por completo en un **confinamiento domiciliario** a nivel nacional, para intentar combatir el rápido avance del coronavirus. 
