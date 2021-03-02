@@ -34,6 +34,7 @@ Esta pandemia nos está cambiando para siempre, pero esperamos que sea un **camb
 > **"La música es para el alma lo que la gimnasia para el cuerpo"** - Platón (427-347 a. C.) Filósofo griego
 
 Ejemplo de còdigo:
+
 `public class ClasePrincipal {`
 
 `public static void main(String[] args) {`
@@ -47,5 +48,4 @@ Ejemplo de còdigo:
 `sentencia_N;`
 
 `}`
-
 `}`
