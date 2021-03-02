@@ -4,7 +4,7 @@ El sector musical es uno de los que más ha sufrido esta pandemia y todas sus co
 ## La música durante el confinamiento
 ![Musica desde balcones](MusicaDesdeBalcones.jpeg)
 
-`Esto es un ejemplo de línea de código´
+`Esto es un ejemplo de línea de código`
 En marzo nuestro país se paralizó por completo en un **confinamiento domiciliario** a nivel nacional, para intentar combatir el rápido avance del coronavirus. 
 En consecuencia a todo esto, el sector de la música, al igual que muchos otros, se vió gravemente afectado. Clases, conciertos, actuaciones, todo quedó cancelado, al tiempo que las tiendas de música e instrumentos, al igual que muchos otros negocios tuvieron que cerrar.
 Por delante, largos meses de encierro y distanciamiento social que, si bien fueron muy **difíciles y duros** para tod@s, también trajeron **cosas positivas**.
